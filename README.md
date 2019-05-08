@@ -2,7 +2,7 @@
 
 项目使用Python3.7获取前程无忧对应关键字的招聘，保存到mongodb，爬取下来的数据,可分析出目前互联网的近况,可统计到每个招聘岗位有多少，每个岗位的薪资分布情况
 
->统计结果图，java还是老大哥
+>统计结果图，java还是老大哥啊
 
 
 ![image](http://weikongimg.oss-cn-shenzhen.aliyuncs.com/pp/3.png)
