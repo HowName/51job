@@ -4,16 +4,29 @@
 
 >统计结果图，java还是老大哥
 
+
 ![image](http://weikongimg.oss-cn-shenzhen.aliyuncs.com/pp/3.png)
+
+
+
+
 
 
 >爬取效果图
 
 ![image](http://weikongimg.oss-cn-shenzhen.aliyuncs.com/pp/51.gif)
 
+
+
+
+
 >mongodb数据图
 
 ![image](http://weikongimg.oss-cn-shenzhen.aliyuncs.com/pp/2.png)
+
+
+
+
 
 >使用到的库(第三方库建议使用pip进行安装)
 
@@ -21,6 +34,13 @@
 BeautifulSoup4,pymongo,requests,re,time
 
 ```
+
+
+
+
+
+
+
 
 >项目主代码
 ```
